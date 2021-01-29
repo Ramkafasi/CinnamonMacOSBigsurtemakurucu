@@ -9,3 +9,6 @@ sudo su
 ./MacOSBigsurtemakurucu.sh
 
 bu komutları girip tema kurulumunu yapabileceğinizi düşünüyorum.
+
+Özel teşekkürler:
+https://www.youtube.com/watch?v=DMs7DX3Um9E
