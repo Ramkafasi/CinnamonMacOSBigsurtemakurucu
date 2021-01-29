@@ -4,6 +4,7 @@ Kurulum sırasında yaşanabilecek herhangi bir durumdan sorumluluk almayacağı
 Tema kurucu sadece Debian tabanlı ve Cinnamon masaüstü ortamını kullanan dağıtımlarda çalışır.
 
 cd İndirilenler(yada nereye indirdiyseniz orayı girin)
+
 sudo su
 
 ./MacOSBigsurtemakurucu.sh
