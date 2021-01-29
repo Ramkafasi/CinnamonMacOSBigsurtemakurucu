@@ -7,6 +7,8 @@ cd İndirilenler(yada nereye indirdiyseniz orayı girin)
 
 sudo su
 
+chmod +x MacOSBigsurtemakurucu.sh
+
 ./MacOSBigsurtemakurucu.sh
 
 bu komutları girip tema kurulumunu yapabileceğinizi düşünüyorum.
